@@ -18,11 +18,11 @@ Practice collecting data from the following online sources:
 Save the datasets in JSON files. 
 
 # Bulbapedia
-Link: 
+Link: https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number
 
 # News site
 Link: https://www.cnet.com/news  
 
 # Authors
 - Christopher Lim
-- 
+- Renzel Raphael Aldecoa
